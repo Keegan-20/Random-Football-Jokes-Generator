@@ -12,4 +12,4 @@ Customization
 You can add or edit the jokes in the jokes_arr array to customize the jokes that are displayed. Make sure to keep the format of the array the same or the application may not work as expected.
 
 
-Tech Stack used :Html,Glassmorphism CSS and Javascript
+Tech Stack used :Html,Glassmorphism CSS and Javascript.
